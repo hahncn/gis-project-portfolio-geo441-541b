@@ -9,7 +9,7 @@ Author: Claudia Hahn
 
 - [First map in ArcGIS Pro](basic-mapping/first-arcgis-map.ipynb)
 - [Inset map practice](basic-mapping/inset.ipynb)
-- [Digitizing](basic-mapping/digitizing.ipynb)
+- [Digitizing](basic-mapping/data-entry-digitizing.ipynb)
 
 ## Map Coordinates Basics
 
